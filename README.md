@@ -1,7 +1,7 @@
 <h2 align="center">
   Portfolio Website
 </h2>
-My personal portfolio <a href="https://michalbelko.github.io/Portfolio" target="_blank">Michal Belko | Portfolio</a> which features some of my github projects as well as my resume , technical skills and certifications.<br/>
+<p align="center">My personal portfolio <a href="https://michalbelko.github.io/Portfolio" target="_blank">Michal Belko | Portfolio</a> which features some of my github projects as well as my resume , technical skills and certifications.<br/></p>
 
 ## Built With 🛠️
 
