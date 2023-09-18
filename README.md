@@ -15,7 +15,7 @@ This project was built using these technologies:
 - Jquery
 - ParticlesJS
 
- ## Features
+ ## Features 🔧
 
 **📖 Multi-Page Layout**
 
