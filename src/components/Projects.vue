@@ -7,7 +7,7 @@
     <div class="container-fluid">
       <div class="container-item col-lg-6">
         <img
-          src="../assets/projects1.png"
+          src="../assets/optm.png"
           alt="image of the first project"
           data-aos="flip-up"
           data-aos-duration="1000"
