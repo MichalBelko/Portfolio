@@ -14,9 +14,9 @@
         />
         <div class="details">
           <div class="translate-middle">
-            <p>Mini Vue project - Test your typing skills</p>
+            <p>OptiMizeUX - UX company landing page</p>
             <div class="links-project">
-              <a href="https://github.com/MichalBelko/Vue-SwiftTyper">
+              <a href="https://github.com/MichalBelko/OptiMizeUX">
                 <img
                   width="50"
                   height="50"
@@ -24,7 +24,7 @@
                   alt="github--v1"
                 />
               </a>
-              <a href="https://michalbelko.github.io/Vue-SwiftTyper/">
+              <a href="https://michalbelko.github.io/OptiMizeUX/">
                 <img
                   width="50"
                   height="50"
