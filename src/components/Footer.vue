@@ -10,7 +10,7 @@
           <a href="https://www.facebook.com/michalbelko02"
             ><i class="fab fa-facebook-f"></i
           ></a>
-          <a href="https://www.instagram.com/_michal.belko_/"
+          <a href="https://www.instagram.com/michallbelko/"
             ><i class="fab fa-instagram"></i
           ></a>
           <a href="https://github.com/MichalBelko"
